@@ -21,8 +21,8 @@
 // @connect      sooplive.co.kr
 // @run-at       document-end
 // @license      MIT
-// @downloadURL  https://gist.github.com/II-StealTh-II/f85cdfe6012a56934be52509ed2e282c/raw/078acc149a4a0bd2443a94c92235f2bb8619213a/soop-sidebar-ui-change.user.js
-// @updateURL    https://gist.github.com/II-StealTh-II/f85cdfe6012a56934be52509ed2e282c/raw/078acc149a4a0bd2443a94c92235f2bb8619213a/soop-sidebar-ui-change.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/II-StealTh-II/SOOP-Userscripts-Backup@main/soop-sidebar-ui-change.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/II-StealTh-II/SOOP-Userscripts-Backup@main/soop-sidebar-ui-change.user.js
 // ==/UserScript==
 
 (function () {
